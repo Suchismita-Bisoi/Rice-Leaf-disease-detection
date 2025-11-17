@@ -34,6 +34,7 @@ The model is saved as an H5 file, and the UI is built using Streamlit and deploy
 
 📁 **Project Structure**
 📦 Rice-Leaf-Disease-Classifier
+
 │
 ├── app.py               # Main Streamlit App
 ├── rice_leaf_mobilenet.h5        # trained model file
@@ -53,6 +54,24 @@ The model is saved as an H5 file, and the UI is built using Streamlit and deploy
 
 3️⃣ **Run Streamlit App**
 - streamlit run app.py
+
+🧠 Model Details
+
+**Add your details here:**
+
+- Model Type: MobileNetV2 / CNN
+
+- Input Size: 224 x 224
+
+- Dataset: Rice Leaf Disease Dataset
+
+- Classes: 4
+
+- Accuracy Achieved: XX%
+
+- Loss: Categorical Crossentropy
+
+- Optimizer: Adam
 
 
 
